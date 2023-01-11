@@ -1,6 +1,6 @@
 # MLH-JAN-23-DRAGON-GAME-JS
 
-This is a snake game I have created using HTML,CSS  and Js.
+This is a dragon game I have created using HTML,CSS  and Js.
 
 
 Output:
