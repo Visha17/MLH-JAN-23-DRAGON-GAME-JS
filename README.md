@@ -1,4 +1,4 @@
-# MLH-JAN-23-SNAKE-GAME-JS
+# MLH-JAN-23-DRAGON-GAME-JS
 
 This is a snake game I have created using HTML,CSS  and Js.
 
